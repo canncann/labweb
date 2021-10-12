@@ -2314,7 +2314,7 @@ figure.effect-oscar:hover img {
 ================================================== */
 
 .footer{
-	padding: 60px 0 100px;
+	padding: 20px 0 20px;
 	background: #2e2e2e url(../images/footer-bg.jpg) no-repeat center 0;
 	background-size: cover;
 	color: #fff;
@@ -2357,7 +2357,7 @@ figure.effect-oscar:hover img {
 }
 
 .latest-post-items{
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 }
 
 .latest-post-image img{
@@ -2474,7 +2474,7 @@ ul.arrow li:before {
 ================================================== */
 
 #copyright{
-	padding: 30px 0;
+	padding: 10px 0 30px;
 	background: #191919;
 	color: #fff;
 }
