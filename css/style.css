@@ -3366,7 +3366,7 @@ a.close-styler{
 }
 
 .style-switch-wrapper #preset3 {
-	background-color: #ee3b24;
+	background-color: #327cbc;
 }
 
 .style-switch-wrapper #preset4 {
@@ -3383,7 +3383,7 @@ a.close-styler{
 
 .vid-box {
     width: 100%; 
-    height: 680px; 
+    height: auto; 
     overflow: hidden;
     margin: 0px auto; 
     position: relative;
@@ -3391,7 +3391,7 @@ a.close-styler{
 
 .vid-text {
     position: absolute; 
-    top: 35%;
+    top: 13vw;
     padding-left: 35%;
     width: 100%;
 }
@@ -3399,14 +3399,14 @@ a.close-styler{
 .vid-text h4 { 
     margin-top: -24px; 
     text-align: center; 
-    font-size: 3em; 
+    font-size: 2.4vw; 
     color: #ffffff; 
 }
 
 .vid-text p { 
-    margin-top: 40px; 
+    margin-top: 3vw; 
     text-align: center; 
-    font-size: 1em; 
+    font-size: 1vw; 
     color: #ffffff; 
 }
 
@@ -3418,4 +3418,3 @@ a.close-styler{
     position: relative;
     background-color: #000;
 }
-
