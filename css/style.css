@@ -2260,7 +2260,7 @@ figure.effect-oscar:hover img {
 }
 
 .map {
-	height: 400px;
+	height: auto;
 	z-index: 1;
 }
 
