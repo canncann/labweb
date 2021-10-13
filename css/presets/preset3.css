@@ -2,11 +2,7 @@
 ================================================== */
 
 a{
-<<<<<<< HEAD
-	color: #0066cc;
-=======
-	color: #0066cc;
->>>>>>> color
+	color: #327cbc;
 }
 
 a.read-more:hover{
@@ -18,51 +14,27 @@ a.read-more:hover{
 ================================================== */
 
 .btn.btn-primary{
-<<<<<<< HEAD
-	border: 2px solid #0066cc;
+	border: 2px solid #327cbc;
 }
 
 .btn.btn-primary:hover{
-	background: #fff;
+	background: #327cbc;
 }
 
 .btn.btn-primary.solid{
-	background: #fff;
+	background: #327cbc;
 }
 
 ul.circle li:before{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 ul.check-list li i{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 blockquote {
-	border-left: 5px solid #0066cc;
-=======
-	border: 2px solid #0066cc;
-}
-
-.btn.btn-primary:hover{
-	background: #0066cc;
-}
-
-.btn.btn-primary.solid{
-	background: #0066cc;
-}
-
-ul.circle li:before{
-	color: #0066cc;
-}
-
-ul.check-list li i{
-	color: #0066cc;
-}
-
-blockquote {
-	border-left: 5px solid #0066cc;
->>>>>>> color
+	border-left: 5px solid #327cbc;
 }
 
 
@@ -70,60 +42,33 @@ blockquote {
 ================================================== */
 
 .heading:hover .title-icon{
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 h2.entry-title a:hover{
-	color: #0066cc;
-=======
-	color: #0066cc;
-}
-
-h2.entry-title a:hover{
-	color: #0066cc;
->>>>>>> color
+	color: #327cbc;
 }
 
 /* Icon pentagon */
 
 .icon-pentagon{
-<<<<<<< HEAD
-	background: none repeat scroll 0 0 #0066cc;
+	background: none repeat scroll 0 0 #327cbc;
 }
 
 .icon-pentagon:before{
-	border-bottom: 10px solid #0066cc;
+	border-bottom: 10px solid #327cbc;
 }
 
 .icon-pentagon:after {
-	border-top: 10px solid #0066cc;
+	border-top: 10px solid #327cbc;
 }
 
 .service-icon:before {
-	border-bottom: 30px solid #0066cc;
+	border-bottom: 30px solid #327cbc;
 }
 
 .service-icon:after {
-	border-top: 30px solid #0066cc;
-	background: none repeat scroll 0 0 #0066cc;
-}
-
-.icon-pentagon:before{
-	border-bottom: 10px solid #0066cc;
-}
-
-.icon-pentagon:after {
-	border-top: 10px solid #0066cc;
-}
-
-.service-icon:before {
-	border-bottom: 30px solid #0066cc;
-}
-
-.service-icon:after {
-	border-top: 30px solid #0066cc;
->>>>>>> color
+	border-top: 30px solid #327cbc;
 }
 
 /* Carousel controller */
@@ -132,43 +77,27 @@ h2.entry-title a:hover{
 .ts-carousel-controller .right:hover,
 .owl-controls .owl-prev:hover, 
 .owl-controls .owl-next:hover{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Input form */
 
 .form-control:focus{
-<<<<<<< HEAD
-	border: 1px solid #0066cc !important;
-=======
-	border: 1px solid #0066cc !important;
->>>>>>> color
+	border: 1px solid #327cbc !important;
 }
 
 /* Flex Slider */
 
 .portfolio-slider .flex-direction-nav a:hover,
 .ts-flex-slider .flex-direction-nav a:hover {
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Pagination */
 
 .pagination>.active>a, .pagination>.active>a:hover,
 .pagination>li>a:hover{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Header area
@@ -180,53 +109,33 @@ h2.entry-title a:hover{
 }
 
 .header-solid ul.navbar-nav > li:hover > a, .header-solid ul.navbar-nav > li.active > a {
-<<<<<<< HEAD
-  color: #0066cc;
-=======
-  color: #fff;
->>>>>>> color
+  color: #327cbc;
 }
 
 /*-- Logo --*/
 
 .navbar-brand.navbar-bg{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /*-- Main navigation --*/
 
 ul.navbar-nav > li:hover > a, 
 ul.navbar-nav > li.active > a{
-	color: #0088cc;
+	color: #327cbc;
 }
 
 .navbar-toggle{
-<<<<<<< HEAD
-	background: #0066cc;
+	background: #327cbc;
 }
 
 .dropdown-menu > ul > li.active > a{
-	color: #0066cc;
-=======
-	background: #0066cc;
-}
-
-.dropdown-menu > ul > li.active > a{
-	color: #0066cc;
->>>>>>> color
+	color: #327cbc;
 }
 
 .dropdown-menu > ul > li>a:hover, 
 .dropdown-menu > ul > li>a:focus{
-<<<<<<< HEAD
-	color: #0066cc;
-=======
-	color: #bbbbbb;
->>>>>>> color
+	color: #327cbc;
 }
 
 
@@ -236,11 +145,7 @@ ul.navbar-nav > li.active > a{
 /*-- Header bgnone fixed --*/
 
 .header-bgnone{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 
@@ -251,30 +156,18 @@ ul.navbar-nav > li.active > a{
 
 #main-slide .carousel-indicators li.active,
 #main-slide .carousel-indicators li:hover {
-<<<<<<< HEAD
-    background-color: #0066cc;
+    background-color: #327cbc;
 }
 
 #main-slide .carousel-control i:hover{
-	background: #0066cc;
-=======
-    background-color: #000;
-}
-
-#main-slide .carousel-control i:hover{
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Image Block
 ================================================== */
 
 .image-block-content .feature-icon{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 
@@ -282,48 +175,28 @@ ul.navbar-nav > li.active > a{
 ================================================== */
 
 .isotope-nav ul li a{
-<<<<<<< HEAD
-	border: 1px solid #0066cc;
-=======
-	border: 1px solid #0066cc;
->>>>>>> color
+	border: 1px solid #327cbc;
 }
 
 .isotope-nav ul a.active, 
 .isotope-nav ul a:hover{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 .isotope-nav ul a.active:after, 
 .isotope-nav ul a:hover:after{
-<<<<<<< HEAD
-	border-color: #0066cc rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
-=======
-	border-color: #0066cc rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
->>>>>>> color
+	border-color: #327cbc rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
 }
 
 
 /* Feature box
 ================================================== */
 .feature-icon{
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .feature-center-icon{
-	color: #0066cc;
-=======
-	color: #0066cc;
-}
-
-.feature-center-icon{
-	color: #0066cc;
->>>>>>> color
+	color: #327cbc;
 }
 
 /* About us
@@ -332,90 +205,51 @@ ul.navbar-nav > li.active > a{
 /* Featured Tab */
 
 .featured-tab .nav-tabs>li.active>a{
-<<<<<<< HEAD
-	background: #0066cc;
+	background: #327cbc;
 }
 
 .featured-tab .nav-tabs>li.active>a:after{
-	border-left-color: #0066cc;
+	border-left-color: #327cbc;
 }
 
 .featured-tab .nav-tabs>li>a:hover{
-	background: #0066cc;
+	background: #327cbc;
 	color: #fff;
 }
 .featured-tab .nav-tabs>li>a:hover:after{
-	border-left-color: #0066cc;
-=======
-	background: #0066cc;
-}
-
-.featured-tab .nav-tabs>li.active>a:after{
-	border-left-color: #0066cc;
-}
-
-.featured-tab .nav-tabs>li>a:hover{
-	background: #0066cc;
-	color: #fff;
-}
-.featured-tab .nav-tabs>li>a:hover:after{
-	border-left-color: #0066cc;
->>>>>>> color
+	border-left-color: #327cbc;
 }
 
 /* Pricing table
 ================================================== */
 
 .plan.featured .plan-price{
-<<<<<<< HEAD
-	background: #0066cc;
+	background: #327cbc;
 }
 .plan.featured .plan-price:after{
-	border-top-color: #0066cc;
-=======
-	background: #0066cc;
-}
-.plan.featured .plan-price:after{
-	border-top-color: #0066cc;
->>>>>>> color
+	border-top-color: #327cbc;
 }
 
 /* Testimonial
 ================================================== */
 
 .testimonial-slide .testimonial-text:before{
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .testimonial-slide .testimonial-text:after{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .testimonial-slide.owl-theme .owl-controls .owl-page.active span{
-	background: #0066cc;
-=======
-	color: #0066cc;
-}
-
-.testimonial-slide .testimonial-text:after{
-	color: #0066cc;
-}
-
-.testimonial-slide.owl-theme .owl-controls .owl-page.active span{
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Recent Post
 ================================================== */
 
 .post-img-overlay a:hover{
-<<<<<<< HEAD
-	background: #0066cc;
-=======
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 
@@ -423,105 +257,57 @@ ul.navbar-nav > li.active > a{
 ================================================== */
 
 .copyright-info a:hover{
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .footer2 .copyright-info a{
-	color: #0066cc;
+	color: #327cbc;
 }
 
-#back-to-top .btn .btn-primary:hover{
-	background: #0066cc;
-}
-
-.footer-about-us h4{
-	color: #0066cc;
-}
-
-.footer-widget .latest-post-content h4 a:hover{
-	color: #0066cc;
-}
-
-.subscribe button{
-	background: #0066cc;
-=======
-	color: #0066cc;
-}
-
-.footer2 .copyright-info a{
-	color: #0066cc;
-}
-
-#back-to-top .btn .btn-primary:hover{
-	background: #0066cc;
+#back-to-top .btn.btn-primary:hover{
+	background: #327cbc;
 }
 
 .footer-about-us h4{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .footer-widget .latest-post-content h4 a:hover{
-	color: #aaaaaa;
+	color: #327cbc;
 }
 
 .subscribe button{
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Blog Item page
 ================================================== */
 
 .post-meta a:hover{
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .author-url span a:hover{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .comments-counter a:hover{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .comments-list .comment-reply:hover{
-	color: #0066cc;
-=======
-	color: #0066cc;
-}
-
-.author-url span a:hover{
-	color: #0066cc;
-}
-
-.comments-counter a:hover{
-	color: #0066cc;
-}
-
-.comments-list .comment-reply:hover{
-	color: #0066cc;
->>>>>>> color
+	color: #327cbc;
 }
 
 /*-- Blog sidebar --*/
 
 
 .widget-tab h4.entry-title a:hover{
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .widget-tags ul > li a:hover{
-	background: #0066cc;
-=======
-	color: #0066cc;
-}
-
-.widget-tags ul > li a:hover{
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Landing page
@@ -529,149 +315,77 @@ ul.navbar-nav > li.active > a{
 
 .landing-header.header-bgnone ul.navbar-nav > li:hover > a, 
 .landing-header.header-bgnone ul.navbar-nav > li.active > a {
-<<<<<<< HEAD
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .features-content .features-icon{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .landing_facts{
-	background: #0066cc;
+	background: #327cbc;
 }
 
 .landing-tab .nav-tabs>li.active{
-	border-right: 5px solid #0066cc;
+	border-right: 5px solid #327cbc;
 }
 
 .landing-tab .nav-tabs>li.active>a i{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .landing-tab .nav-tabs>li>a:hover{
-	color: #0066cc !important;
+	color: #327cbc !important;
 }
 
 .landing-tab .tab-pane i.big{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .app-gallery.owl-theme .owl-controls .owl-page.active span{
-	background: #0066cc;
+	background: #327cbc;
 }
 
 .landing_page_clients{
-	background: #0066cc;
-=======
-	color: #0066cc;
-}
-
-.features-content .features-icon{
-	color: #0066cc;
-}
-
-.landing_facts{
-	background: #0066cc;
-}
-
-.landing-tab .nav-tabs>li.active{
-	border-right: 5px solid #0066cc;
-}
-
-.landing-tab .nav-tabs>li.active>a i{
-	color: #0066cc;
-}
-
-.landing-tab .nav-tabs>li>a:hover{
-	color: #0066cc !important;
-}
-
-.landing-tab .tab-pane i.big{
-	color: #0066cc;
-}
-
-.app-gallery.owl-theme .owl-controls .owl-page.active span{
-	background: #0066cc;
-}
-
-.landing_page_clients{
-	background: #0066cc;
->>>>>>> color
+	background: #327cbc;
 }
 
 /* Misc */
 
 .title-border{
-<<<<<<< HEAD
-	border-bottom: 2px solid #0066cc;
+	border-bottom: 2px solid #327cbc;
 }
 
 .post-title a:hover{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .portfolio-static-desc a:hover{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .client-carousel .item a:hover{
-	border: 1px solid #0066cc;
+	border: 1px solid #327cbc;
 }
 
 .footer ul li a:hover{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .call-to-action{
-	background: #0066cc;
+	background: #327cbc;
 }
 
 .blog-date{
-	background: #0066cc;
+	background: #327cbc;
 }
 
 .widget-categories ul.category-list  li a:hover{
-	color: #0066cc;
+	color: #327cbc;
 }
 
 .about-message ul li a:hover{
-	color: #0066cc;
-=======
-	border-bottom: 2px solid #0066cc;
-}
-
-.post-title a:hover{
-	color: #0066cc;
-}
-
-.portfolio-static-desc a:hover{
-	color: #0066cc;
-}
-
-.client-carousel .item a:hover{
-	border: 1px solid #0066cc;
-}
-
-.footer ul li a:hover{
-	color: #0066cc;
-}
-
-.call-to-action{
-	background: #0066cc;
-}
-
-.blog-date{
-	background: #0066cc;
-}
-
-.widget-categories ul.category-list  li a:hover{
-	color: #0066cc;
-}
-
-.about-message ul li a:hover{
-	color: #0066cc;
->>>>>>> color
+	color: #327cbc;
 }
 
 
