@@ -106,6 +106,10 @@ section{
   padding: 50px;
 }
 
+.pf-padding {
+  padding: 20px 0 0 50px;
+}
+
 .no-padding{
 	padding: 0;
 }
